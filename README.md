@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Collection Project
+## Basic Java Structure
 
 Default Structure for A Basic Project
 
